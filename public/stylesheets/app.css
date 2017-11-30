@@ -1,0 +1,30 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    font-family: 'Dosis', bold;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
+
+.photo:hover {
+    border: 2px dotted grey;
+}
+
+.photo:visited img{
+    opacity: 0.5;
+}
